@@ -2884,6 +2884,9 @@
         <layout>TimeSlot-Time Slot Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>UniversalAnomalyEventStore-Universal Anomaly Event Store Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>User-User Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3582,7 +3585,7 @@
         <name>ShowCompanyNameAsUserBadge</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>UserInteractionInsights</name>
     </userPermissions>
     <userPermissions>

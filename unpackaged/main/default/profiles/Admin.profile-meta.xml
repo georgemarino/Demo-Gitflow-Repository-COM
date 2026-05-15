@@ -31,22 +31,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>CustomerFeedbackManager</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>EventNotificationService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>InvoiceProcessor</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>LeadQualificationHelper</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>MetadataChurner</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -56,10 +40,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>Names</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>OpportunityScoreCalculator</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
@@ -4192,6 +4172,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>TimeSlot-Time Slot Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>UniversalAnomalyEventStore-Universal Anomaly Event Store Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>User-User Layout</layout>

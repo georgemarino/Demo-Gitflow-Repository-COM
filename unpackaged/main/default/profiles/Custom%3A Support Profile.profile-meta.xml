@@ -2859,6 +2859,9 @@
         <layout>TimeSlot-Time Slot Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>UniversalAnomalyEventStore-Universal Anomaly Event Store Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>User-User Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3747,6 +3750,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ImportPersonal</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>IntegrationIntelligenceUser</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>

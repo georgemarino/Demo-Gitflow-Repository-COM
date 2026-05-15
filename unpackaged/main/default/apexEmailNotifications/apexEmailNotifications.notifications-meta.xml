@@ -3,7 +3,4 @@
     <apexEmailNotification>
         <email>FAKEAPEXEMAILADDRESS@gearset.com.fake</email>
     </apexEmailNotification>
-    <apexEmailNotification>
-        <email>00DgK000006b1xlUAA+6672176f-2d9f-4b83-99a9-320d9e0e5303@eu.platform.gearset.com</email>
-    </apexEmailNotification>
 </ApexEmailNotifications>

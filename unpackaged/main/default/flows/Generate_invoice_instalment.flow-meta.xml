@@ -90,5 +90,5 @@
         </schedule>
         <triggerType>Scheduled</triggerType>
     </start>
-    <status>Active</status>
+    <status>Draft</status>
 </Flow>
